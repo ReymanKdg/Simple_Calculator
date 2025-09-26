@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Welcome Message
+//github account added
 Console.WriteLine("************WELCOME TO SIMPLE CALCULATOR************");
 
 int choice = 0;
